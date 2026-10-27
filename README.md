@@ -31,43 +31,131 @@ Mi trabajo se mueve entre el **desarrollo backend**, la **ingeniería de datos**
 ### Lenguajes
 
 <p>
-  <img src="https://img.shields.io/badge/Python-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=python&amp;logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java">
-  <img src="https://img.shields.io/badge/C%23-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=dotnet&amp;logoColor=A179DC" alt="C#">
-  <img src="https://img.shields.io/badge/VB.NET-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=dotnet&amp;logoColor=A179DC" alt="VB.NET">
-  <img src="https://img.shields.io/badge/SQL-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=mysql&amp;logoColor=6FA8DC" alt="SQL">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=python&amp;logoColor=3776AB">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=python&amp;logoColor=3776AB">
+    <img src="https://img.shields.io/badge/Python-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=python&amp;logoColor=3776AB" alt="Python">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=javascript&amp;logoColor=F7DF1E">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=javascript&amp;logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/JavaScript-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=openjdk&amp;logoColor=ED8B00">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=openjdk&amp;logoColor=ED8B00">
+    <img src="https://img.shields.io/badge/Java-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=dotnet&amp;logoColor=A179DC">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%23-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=dotnet&amp;logoColor=512BD4">
+    <img src="https://img.shields.io/badge/C%23-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=dotnet&amp;logoColor=512BD4" alt="C#">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VB.NET-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=dotnet&amp;logoColor=A179DC">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VB.NET-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=dotnet&amp;logoColor=512BD4">
+    <img src="https://img.shields.io/badge/VB.NET-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=dotnet&amp;logoColor=512BD4" alt="VB.NET">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=mysql&amp;logoColor=6FA8DC">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SQL-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=mysql&amp;logoColor=4479A1">
+    <img src="https://img.shields.io/badge/SQL-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=mysql&amp;logoColor=4479A1" alt="SQL">
+  </picture>&nbsp;
 </p>
 
 ### Desarrollo web y backend
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=express&amp;logoColor=FFFFFF" alt="Express">
-  <img src="https://img.shields.io/badge/API_REST-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=swagger&amp;logoColor=85EA2D" alt="API REST">
-  <img src="https://img.shields.io/badge/HTML5-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=css&amp;logoColor=1572B6" alt="CSS3">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=nodedotjs&amp;logoColor=339933">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Node.js-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=nodedotjs&amp;logoColor=339933">
+    <img src="https://img.shields.io/badge/Node.js-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Express-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=express&amp;logoColor=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Express-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=express&amp;logoColor=000000">
+    <img src="https://img.shields.io/badge/Express-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=express&amp;logoColor=000000" alt="Express">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/API_REST-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=swagger&amp;logoColor=85EA2D">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/API_REST-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=swagger&amp;logoColor=2F8132">
+    <img src="https://img.shields.io/badge/API_REST-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=swagger&amp;logoColor=2F8132" alt="API REST">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=html5&amp;logoColor=E34F26">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=html5&amp;logoColor=E34F26">
+    <img src="https://img.shields.io/badge/HTML5-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=css&amp;logoColor=1572B6">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=css&amp;logoColor=1572B6">
+    <img src="https://img.shields.io/badge/CSS3-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=css&amp;logoColor=1572B6" alt="CSS3">
+  </picture>&nbsp;
 </p>
 
 ### Datos e IA
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=pandas&amp;logoColor=FFFFFF" alt="Pandas">
-  <img src="https://img.shields.io/badge/InfluxDB-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=influxdb&amp;logoColor=22ADF6" alt="InfluxDB">
-  <img src="https://img.shields.io/badge/Grafana-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=grafana&amp;logoColor=F46800" alt="Grafana">
-  <img src="https://img.shields.io/badge/Node--RED-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=nodered&amp;logoColor=FF6B6B" alt="Node-RED">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=pandas&amp;logoColor=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Pandas-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=pandas&amp;logoColor=150458">
+    <img src="https://img.shields.io/badge/Pandas-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=pandas&amp;logoColor=150458" alt="Pandas">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/InfluxDB-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=influxdb&amp;logoColor=22ADF6">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/InfluxDB-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=influxdb&amp;logoColor=22ADF6">
+    <img src="https://img.shields.io/badge/InfluxDB-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=influxdb&amp;logoColor=22ADF6" alt="InfluxDB">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Grafana-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=grafana&amp;logoColor=F46800">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Grafana-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=grafana&amp;logoColor=F46800">
+    <img src="https://img.shields.io/badge/Grafana-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=grafana&amp;logoColor=F46800" alt="Grafana">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node--RED-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=nodered&amp;logoColor=FF6B6B">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Node--RED-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=nodered&amp;logoColor=8F0000">
+    <img src="https://img.shields.io/badge/Node--RED-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=nodered&amp;logoColor=8F0000" alt="Node-RED">
+  </picture>&nbsp;
 </p>
 
 ### Infraestructura y herramientas
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=docker&amp;logoColor=2496ED" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=git&amp;logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub">
-  <img src="https://img.shields.io/badge/MySQL-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=mysql&amp;logoColor=6FA8DC" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQLite-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=sqlite&amp;logoColor=FFFFFF" alt="SQLite">
-  <img src="https://img.shields.io/badge/Visual_Studio-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=visualstudio&amp;logoColor=C084FC" alt="Visual Studio">
-  <img src="https://img.shields.io/badge/VS_Code-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=visualstudiocode&amp;logoColor=007ACC" alt="VS Code">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=docker&amp;logoColor=2496ED">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=docker&amp;logoColor=2496ED">
+    <img src="https://img.shields.io/badge/Docker-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=docker&amp;logoColor=2496ED" alt="Docker">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=git&amp;logoColor=F05032">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=git&amp;logoColor=F05032">
+    <img src="https://img.shields.io/badge/Git-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=git&amp;logoColor=F05032" alt="Git">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=github&amp;logoColor=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=github&amp;logoColor=181717">
+    <img src="https://img.shields.io/badge/GitHub-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=github&amp;logoColor=181717" alt="GitHub">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=mysql&amp;logoColor=6FA8DC">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=mysql&amp;logoColor=4479A1">
+    <img src="https://img.shields.io/badge/MySQL-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQLite-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=sqlite&amp;logoColor=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SQLite-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=sqlite&amp;logoColor=003B57">
+    <img src="https://img.shields.io/badge/SQLite-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=sqlite&amp;logoColor=003B57" alt="SQLite">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Visual_Studio-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=visualstudio&amp;logoColor=C084FC">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Visual_Studio-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=visualstudio&amp;logoColor=5C2D91">
+    <img src="https://img.shields.io/badge/Visual_Studio-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=visualstudio&amp;logoColor=5C2D91" alt="Visual Studio">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VS_Code-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=visualstudiocode&amp;logoColor=007ACC">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VS_Code-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=visualstudiocode&amp;logoColor=007ACC">
+    <img src="https://img.shields.io/badge/VS_Code-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=visualstudiocode&amp;logoColor=007ACC" alt="VS Code">
+  </picture>&nbsp;
 </p>
 
 ## 04 · Proyectos
