@@ -8,35 +8,70 @@
 
 ## 01 · Perfil
 
-Desarrollador de software en formación, centrado en el desarrollo web y de aplicaciones. Me interesa construir productos completos —interfaz, API y base de datos— cuidando la claridad del código y la experiencia de uso.
+Desarrollador de software en formación, con base en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente cursando la especialización en **IA y Big Data** en el Centro Formación Somorrostro.
 
-Actualmente desarrollo **SoroHub**, mi Trabajo de Fin de Grado en el Centro Formación Somorrostro: una plataforma interna para gestionar y compartir proyectos académicos, con autenticación propia y control de acceso por roles.
+Me interesa construir productos completos —interfaz, API y datos— cuidando la claridad del código y la experiencia de uso. Mi foco actual: **backend, datos e inteligencia artificial**.
 
-## 02 · Ahora
+## 02 · Trayectoria
 
-> **SoroHub** · TFG 2025–2026
->
-> Plataforma académica con autenticación, gestión de recursos, tareas y notas. Construida con Node.js, Express y SQLite, y desplegada en [sorohub.duckdns.org](https://sorohub.duckdns.org).
+| Ámbito | Detalle |
+| :-- | :-- |
+| **Experiencia** | **Zucchetti Spain** · Desarrollador de software (Soluciones TI) · feb – may 2026 |
+| **Formación** | **Centro Formación Somorrostro** · Especialización en IA y Big Data · actualidad |
+| **Formación** | **Centro Formación Somorrostro** · CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM) |
+| **Idiomas** | Español y euskera nativos · Inglés profesional |
 
-## 03 · Stack
+## 03 · Aprendiendo ahora
 
-**Lenguajes**<br>`JavaScript` `Java` `C#` `VB.NET` `SQL`
+- **Inteligencia artificial** — fundamentos y aplicación al análisis de datos.
+- **Big Data** — ingesta, procesamiento y visualización de datos.
+- **Stack de datos** — Python, Pandas, InfluxDB, Grafana y Node-RED.
+- **Infraestructura** — Docker y despliegue de servicios.
+
+## 04 · Stack
+
+**Lenguajes**<br>`Python` `JavaScript` `Java` `C#` `VB.NET` `SQL`
 
 **Web y backend**<br>`Node.js` `Express` `REST` `HTML5` `CSS3`
 
-**Datos y herramientas**<br>`SQL` `SQLite` `MySQL` `Git` `GitHub` `Visual Studio` `VS Code`
+**Datos e IA**<br>`Pandas` `InfluxDB` `Grafana` `Node-RED`
 
-## 04 · Proyectos
+**Bases de datos**<br>`SQLite` `MySQL`
+
+**Herramientas**<br>`Docker` `Git` `GitHub` `Visual Studio` `VS Code`
+
+## 05 · Proyectos
 
 | Proyecto | Descripción | Stack |
 | :-- | :-- | :-- |
-| **[SoroHub](https://github.com/3rlaitz/SoroHub)** · TFG | Plataforma académica con autenticación, recursos, tareas y notas. | `Node.js` `Express` `SQLite` |
-| **[Mini-Reto-Gestión-de-Tabla](https://github.com/3rlaitz/Mini-Reto-Gestion-de-Tabla)** | Ejercicio de gestión de tablas y acceso a datos. | `VB.NET` `SQL` |
+| **[AeroAdd](https://github.com/ai-somorrostro/AeroAdd)** · Big Data + IA | Ingesta y análisis de datos del aeropuerto de Madrid-Barajas: captaciones WiFi, ventas, meteorología y llegadas de vuelos. Proyecto en equipo en ai-somorrostro. | `Python` `InfluxDB` `Grafana` `Node-RED` `Docker` |
+| **[SoroHub](https://github.com/3rlaitz/SoroHub)** · TFG finalizado | Plataforma académica con autenticación, recursos, tareas y notas. | `Node.js` `Express` `SQLite` |
 
 Más repositorios en [github.com/3rlaitz](https://github.com/3rlaitz?tab=repositories).
 
-## 05 · Contacto
+## 06 · Actividad en GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=3rlaitz&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B0F14&amp;title_color=5FB3A8&amp;icon_color=5FB3A8&amp;text_color=8A96A8&amp;locale=es&amp;hide_rank=true&amp;hide=contribs&amp;disable_animations=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=3rlaitz&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F7F8FA&amp;title_color=0F766E&amp;icon_color=0F766E&amp;text_color=5B6675&amp;locale=es&amp;hide_rank=true&amp;hide=contribs&amp;disable_animations=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=3rlaitz&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F7F8FA&amp;title_color=0F766E&amp;icon_color=0F766E&amp;text_color=5B6675&amp;locale=es&amp;hide_rank=true&amp;hide=contribs&amp;disable_animations=true" alt="Estadísticas de GitHub de Erlaitz" height="170">
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3rlaitz&amp;layout=donut&amp;langs_count=5&amp;hide_border=true&amp;bg_color=0B0F14&amp;title_color=5FB3A8&amp;text_color=8A96A8&amp;locale=es&amp;disable_animations=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=3rlaitz&amp;layout=donut&amp;langs_count=5&amp;hide_border=true&amp;bg_color=F7F8FA&amp;title_color=0F766E&amp;text_color=5B6675&amp;locale=es&amp;disable_animations=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3rlaitz&amp;layout=donut&amp;langs_count=5&amp;hide_border=true&amp;bg_color=F7F8FA&amp;title_color=0F766E&amp;text_color=5B6675&amp;locale=es&amp;disable_animations=true" alt="Lenguajes más usados" height="170">
+  </picture>
+</p>
+
+## 07 · Contacto
 
 Abierto a oportunidades y colaboraciones.
 
-[`erlaitz.alonso05@somo.eus`](mailto:erlaitz.alonso05@somo.eus) · [`github.com/3rlaitz`](https://github.com/3rlaitz) · Somorrostro, Bizkaia
+| Canal | Detalle |
+| :-- | :-- |
+| **LinkedIn** | [Erlaitz Alonso Rodríguez](https://es.linkedin.com/in/erlaitz-alonso-rodriguez-85b6ba364) |
+| **Correo** | [er.alonso.rodriguez@gmail.com](mailto:er.alonso.rodriguez@gmail.com) |
+| **GitHub** | [@3rlaitz](https://github.com/3rlaitz) |
+| **Ubicación** | Bilbao, País Vasco |
