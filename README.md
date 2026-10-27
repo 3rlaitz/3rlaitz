@@ -83,7 +83,7 @@ Mi trabajo se mueve entre el **desarrollo backend**, la **ingeniería de datos**
   </picture>&nbsp;
 </p>
 
-### Datos e IA
+### IA y Big Data
 
 <p>
   <picture>
