@@ -156,7 +156,7 @@ Plataforma de datos de principio a fin: recoge captaciones WiFi, ventas, meteoro
 
 `Python` `InfluxDB` `Grafana` `Node-RED` `Docker`
 
-Proyecto en equipo dentro de [ai-somorrostro](https://github.com/ai-somorrostro) · [Ver repositorio](https://github.com/ai-somorrostro/AeroAdd)
+Proyecto en equipo dentro de **ai-somorrostro** · [Ver repositorio](https://github.com/3rlaitz/AeroAdd)
 
 ### SoroHub — plataforma de gestión académica · TFG
 
