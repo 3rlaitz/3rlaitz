@@ -41,7 +41,7 @@
   <text x="1216" y="86" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="1.2" fill="#667386">~/3rlaitz</text>
 
   <text x="62" y="181" font-family="'Inter', -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-2" fill="#E8EDF4">Erlaitz Alonso</text>
-  <text x="64" y="225" font-family="'Inter', -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" letter-spacing="0.2" fill="#8A96A8">DAW · IA &amp; Big Data</text>
+  <text x="64" y="225" font-family="'Inter', -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" letter-spacing="0.2" fill="#8A96A8">DAM · IA &amp; Big Data</text>
 
   <path d="M64 262H660" stroke="#202A36"/>
   <path d="M64 262H128" stroke="#5FB3A8" stroke-width="2"/>
