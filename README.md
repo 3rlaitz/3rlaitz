@@ -72,16 +72,6 @@ Mi trabajo se mueve entre el **desarrollo backend**, la **ingeniería de datos**
     <img src="https://img.shields.io/badge/Node.js-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js">
   </picture>&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Express-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=express&amp;logoColor=FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Express-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=express&amp;logoColor=000000">
-    <img src="https://img.shields.io/badge/Express-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=express&amp;logoColor=000000" alt="Express">
-  </picture>&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/API_REST-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=swagger&amp;logoColor=85EA2D">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/API_REST-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=swagger&amp;logoColor=2F8132">
-    <img src="https://img.shields.io/badge/API_REST-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=swagger&amp;logoColor=2F8132" alt="API REST">
-  </picture>&nbsp;
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-161D26?style=flat-square&amp;labelColor=0B0F14&amp;logo=html5&amp;logoColor=E34F26">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=html5&amp;logoColor=E34F26">
     <img src="https://img.shields.io/badge/HTML5-E8ECF1?style=flat-square&amp;labelColor=F7F8FA&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5">
